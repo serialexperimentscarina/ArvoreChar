@@ -110,7 +110,7 @@ public class ArvoreChar implements IArvore{
 
 	@Override
 	public void prefixSearch() throws Exception {
-		System.out.println("Busca prefixa: ");
+		System.out.println("Busca préfixa: ");
 		prefix(raiz);
 	}
 
